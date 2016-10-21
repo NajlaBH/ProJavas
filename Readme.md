@@ -7,7 +7,7 @@
 <body>
     <header>
         <section style="color:blue;float:left;padding-right:20px;">
-         <img src="imgs/logo-java.jpg" style="width:65px;height:65px;">
+         <img src="imgs/logoJava.png" style="width:65px;height:65px;">
          </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <h1>ProJavas</h1>
