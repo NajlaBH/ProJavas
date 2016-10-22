@@ -7,7 +7,7 @@
 <body>
     <header>
         <section style="color:blue;float:left;padding-right:20px;">
-         <img src="imgs/logoJava.png" style="width:65px;height:65px;">
+         <img src="imgs/logoJava.png" style="width:25px;height:25px;">
          </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <h1>ProJavas</h1>
@@ -16,7 +16,6 @@
         </section>
     </header>
 <article>
-<section id="content"style="color:black;float:left;">
 
 <h1 id='idtitle1'>I. What is this?</h1>
 <p>Projects and tests repositories with JAVA.</p>
