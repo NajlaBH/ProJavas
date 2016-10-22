@@ -1,5 +1,0 @@
-#FILE TO IGNORE :: BHNtools, Air. 2016
-.pyo
-.gitignore
-.py~
-..DS_Store
