@@ -16,12 +16,10 @@ before_script:
     
 before_install:
     - docker pull bhntools/docker-netbeans
-    - docker run -ti --rm \
-           -e DISPLAY=$DISPLAY \
-           -v /tmp/.X11-unix:/tmp/.X11-unix \
-           -v `pwd`/.netbeans-docker:/home/developer/.netbeans \
-           -v `pwd`:/workspace \
-           bhntools/docker-netbeans
+    - docker run -d \
+                -e DISPLAY=$(ifconfig vboxnet0 | grep 'inet' | cut -d' ' -f2):0 \
+                -it bhntools/docker-netbeans:latest
+
 
 script:
     - mvn clean verify

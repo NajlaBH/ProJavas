@@ -1,7 +1,6 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>docker-netbeans-images</title>
 </head>
 <body>
     <header>
