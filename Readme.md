@@ -1,12 +1,11 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>ProJavas</title>
 </head>
 <body>
     <header>
-        <section style="color:blue;float:left;padding-right:20px;">
-         <img src="imgs/logoJava.png" style="width:35px;height:35px;">
+        <section style="color:blue;float:left;padding-right:10px;">
+         <img src="imgs/logoJava.png" style="width:50px;height:50px;">
          </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <h1>ProJavas</h1>
@@ -18,8 +17,13 @@
 <article>
 <h1 id='idtitle1'>I. What is this?</h1>
 <p>Projects and tests repositories with JAVA.</p>
+<h2 id='idtitle1'>I.1 Docker images</h2>
+<h4 id='idtitle1'>I.1.1 Docker-image-netbeans</h4>
+<p style="color:black;"> - Docker image dedicate to use netbeans 8.2 with JDK8.</p>
+<p style="color:black;"> >> link: <a href='https://github.com/NajlaBH/docker-netbeans'>https://github.com/NajlaBH/docker-netbeans</a></p>
+
 <h1 id='idtitle2'>II. How to use it?</h1>
-<p><pre>git clone</pre></p>
+<p><pre>git clone https://github.com/NajlaBH/ProJavas.git</pre></p>
 <h1 id='idtitle3'>III. Resources</h1>
 <h2>III.1/ Documentation</h2>
 <ul>
