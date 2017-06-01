@@ -5,7 +5,7 @@
 <body>
     <header>
         <section style="color:blue;float:left;padding-right:10px;">
-         <img src="imgs/logoJava.png" style="width:50px;height:50px;">
+         <img src="imgs/logoJavaSmall.png" style="width:50px;height:50px;">
          </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <h1>ProJavas</h1>
