@@ -22,6 +22,11 @@
 <p style="color:black;"> - Docker image dedicate to use netbeans 8.2 with JDK8.</p>
 <p style="color:black;"> >> link: <a href='https://github.com/NajlaBH/docker-netbeans'>https://github.com/NajlaBH/docker-netbeans</a></p>
 
+<h2 id='idtitle1'>I.2 Maven projects</h2>
+<h4 id='idtitle1'>I.2.1 Maven site templates</h4>
+<p style="color:black;"> - Maven site template integrating severals code coverages tools.</p>
+<p style="color:black;"> >> link: <a href='https://github.com/NajlaBH/mvnitext7templates'>https://github.com/NajlaBH/mvnitext7templates</a></p>
+
 <h1 id='idtitle2'>II. How to use it?</h1>
 <p><pre>git clone https://github.com/NajlaBH/ProJavas.git</pre></p>
 <h1 id='idtitle3'>III. Resources</h1>
@@ -47,7 +52,7 @@ If you are having issues, please let me know.
 
 <section style="font: bold;color:green;align:center;font-size:small;">
 <footer>
-BHNtools-copyright2016©
+BHNtools-copyright2016-2017©
 <br>
 <span style="color:black;">MIT License.</span>
 </footer>
