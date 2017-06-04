@@ -1,0 +1,4 @@
+[submodule "mvnitext7templates"]
+
+path = mvnitext7templates
+url=git://github.com/NajlaBH/mvnitext7templates.git
